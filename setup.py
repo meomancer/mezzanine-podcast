@@ -20,7 +20,7 @@ setup(
         "grappelli_safe >= 0.1.9",
         "filebrowser_safe",
         "south",
-        "PIL",
+        "Pillow",
     ],
 
     classifiers=[
